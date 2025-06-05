@@ -161,10 +161,6 @@ The script creates detailed logs including:
 4. 📤 Push to the branch (`git push origin feature/amazing-feature`)
 5. 🔄 Open a Pull Request
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 This tool is provided as-is for educational purposes. Users are responsible for ensuring their use complies with all applicable laws and website terms of service. The authors are not responsible for any misuse of this tool.
